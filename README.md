@@ -1,2 +1,1 @@
-# Android-Studio-App-HWR
-HWR App Project
+App Entwicklung mit Android WiSe-2025
